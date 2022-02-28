@@ -9,7 +9,7 @@
 7. If you don't have a client downloaded, write "n" or "1"
 8. Have a fun!
 
-#SOCIALS
+SOCIALS
 WEB: https://virtualvpn.tk
 DISCORD: https://virtualvpn.tk/discord
 STATUS: https://virtualvpn.tk/status
