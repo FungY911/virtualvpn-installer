@@ -1,15 +1,4 @@
-██╗   ██╗██╗██████╗ ████████╗██╗   ██╗ █████╗ ██╗    ██╗   ██╗██████╗ ███╗   ██╗
-
-██║   ██║██║██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██║    ██║   ██║██╔══██╗████╗  ██║
-
-██║   ██║██║██████╔╝   ██║   ██║   ██║███████║██║    ██║   ██║██████╔╝██╔██╗ ██║
-
-╚██╗ ██╔╝██║██╔══██╗   ██║   ██║   ██║██╔══██║██║    ╚██╗ ██╔╝██╔═══╝ ██║╚██╗██║
-
- ╚████╔╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗╚████╔╝ ██║     ██║ ╚████║
- 
-  ╚═══╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝     ╚═╝  ╚═══╝
-                                                                                                                                                                    
+#virtualvpn-installer                                                                                                                                                                  
 
 1. Start the VirtualVPN Installer.
 2. Wait for check tunels!
@@ -20,7 +9,7 @@
 7. If you don't have a client downloaded, write "n" or "1"
 8. Have a fun!
 
-SOCIALS:
+#SOCIALS
 WEB: https://virtualvpn.tk
 DISCORD: https://virtualvpn.tk/discord
 STATUS: https://virtualvpn.tk/status
